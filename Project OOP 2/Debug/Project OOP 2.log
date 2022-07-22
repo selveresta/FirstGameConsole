@@ -1,0 +1,5 @@
+﻿  Menu.cpp
+  main.cpp
+C:\Users\Artem\source\repos\Project OOP 2\Project OOP 2\main.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project OOP 2.vcxproj -> C:\Users\Artem\source\repos\Project OOP 2\Debug\Project OOP 2.exe
